@@ -8,7 +8,6 @@ I'm a passionate **Computer Science student** from **Pune**, currently pursuing 
 
 ### **Programming Languages**
 - C/C++
-- Java
 - SQL
 
 ### **Frontend Development**
@@ -25,21 +24,10 @@ I'm a passionate **Computer Science student** from **Pune**, currently pursuing 
 
 ---
 
-## 🌟 Projects
-
-| **Project Name**               | **Description**                           | **Tech Stack**            |
-|---------------------------------|-------------------------------------------|---------------------------|
-| **Dynamic Portfolio**           | An interactive personal portfolio website | React, Tailwind CSS       |
-| **Secure File Storage System**  | Hybrid cryptographic secure file storage  | AES, RSA, Steganography   |
-| **Knapsack Solver**             | DAA problem-solving with Branch & Bound   | C++                       |
-
----
-
 ## 🚀 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/harshal-ingle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=internet-explorer)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshal-ingale-6ab822258/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Harshal-9921)
 
 ---
 
@@ -53,8 +41,8 @@ I'm a passionate **Computer Science student** from **Pune**, currently pursuing 
 ---
 
 ## ✨ Highlights
-- **Certifications:** IIT Bombay, PCCOE GDSC, CodeChef
-- **Achievements:** Participated in multiple hackathons and coding competitions
+- **Certifications:** PCCOE GDSC, CodeChef
+- **Achievements:** Participated in multiple coding competitions
 
 ---
 
